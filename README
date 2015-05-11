@@ -1,5 +1,3 @@
 * This is my first Ruby on Rails web app. It is a simple app that takes a drink name and temperature and stores it on a data base.
 * It is a Railsbridge Installfest sample app that can be implemented by following the steps at http://installfest.railsbridge.org/installfest/
 * I hosted it on Heroku - a free cloud application platform. You can access it at https://hidden-dusk-5931.herokuapp.com
-
-*** PS: Pls ignore the README.rdoc file, it's a default RubyonRails readme file that doesn't contain any relevant info.
